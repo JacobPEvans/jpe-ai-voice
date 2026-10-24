@@ -1,0 +1,7 @@
+extends: metric
+message: "Use shorter words and sentences for grade 8 readability."
+level: warning
+scope: summary
+formula: |
+  (0.39 * (words / sentences)) + (11.8 * (syllables / words)) - 15.59
+condition: "> 8"

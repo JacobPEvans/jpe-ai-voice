@@ -1,0 +1,29 @@
+extends: substitution
+message: "Use '%s' in place of '%s'."
+level: warning
+ignorecase: true
+action:
+  name: replace
+swap:
+  utilize: use
+  leverage: use
+  facilitate: help
+  coordinate: organize
+  remediate: fix
+  mitigate: fix
+  commence: start
+  initiate: start
+  operationalize: run
+  demonstrate: show
+  illustrate: show
+  "require as a prerequisite": need
+  "pertaining to": about
+  "vis-a-vis": about
+  "prior to": before
+  "subsequent to": after
+  "in order to": to
+  "for the purpose of": for
+  furthermore: also
+  moreover: also
+  expeditiously: quickly
+  "implement modifications to": change

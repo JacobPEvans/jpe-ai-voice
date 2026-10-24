@@ -1,0 +1,7 @@
+extends: existence
+message: "State the point directly or name the uncertainty."
+level: warning
+ignorecase: true
+tokens:
+  - "I think we should probably consider possibly"
+  - "may perhaps want to consider"

@@ -1,0 +1,5 @@
+extends: existence
+message: "Use sentence case for emphasis."
+level: error
+tokens:
+  - '\b(?:CRITICAL|EXPLICIT|IMPORTANT|NEVER)\b'

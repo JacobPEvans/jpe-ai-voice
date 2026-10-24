@@ -1,0 +1,9 @@
+extends: existence
+message: "Use this word only when it carries a literal meaning."
+level: warning
+ignorecase: true
+tokens:
+  - crucial
+  - vital
+  - key
+  - critical

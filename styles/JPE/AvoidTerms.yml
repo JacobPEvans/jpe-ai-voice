@@ -1,0 +1,16 @@
+extends: existence
+message: "Use a plain, specific alternative for '%s'."
+level: error
+ignorecase: true
+tokens:
+  - "easy win"
+  - modern
+  - brittle
+  - "magic button"
+  - "operations team"
+  - snazzy
+  - poetic
+  - deterministic
+  - quantified
+  - fluff
+  - TBD

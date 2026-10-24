@@ -1,0 +1,21 @@
+extends: existence
+message: "Use a plain, direct phrase for '%s'."
+level: warning
+ignorecase: true
+tokens:
+  - delve
+  - "I am pleased to share"
+  - "we are delighted to report"
+  - robust
+  - comprehensive
+  - seamless
+  - holistic
+  - "navigate the complexities"
+  - "in summary"
+  - "in conclusion"
+  - "I'd be happy to"
+  - "it's worth noting"
+  - "it should be mentioned"
+  - "it's important to note"
+  - additionally
+  - "significant progress was achieved across various initiatives"

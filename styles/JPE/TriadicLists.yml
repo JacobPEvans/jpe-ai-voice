@@ -1,0 +1,7 @@
+extends: existence
+message: "Vary the list shape or state its result."
+level: warning
+ignorecase: true
+scope: sentence
+tokens:
+  - '\b[\w-]+,\s+[\w-]+,\s+and\s+[\w-]+\b'
