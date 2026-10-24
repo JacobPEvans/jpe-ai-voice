@@ -1,6 +1,8 @@
 ---
 name: voice-learn
 description: Review writing corrections each week and propose general, name-free updates to the shared voice guide or Vale rules.
+metadata:
+  version: "1.0.0"
 ---
 
 # Voice learning
