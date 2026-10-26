@@ -35,3 +35,10 @@ jobs:
           gh release view latest >/dev/null 2>&1 \
             || gh release create latest --title latest --notes "Vale package built from main." --target "$GITHUB_SHA"
           gh release upload latest JacobPEvans.zip --clobber
+
+      # v1 is the only version tag. It follows main and is never bumped.
+      - name: Move the v1 tag to main
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PATCH "repos/${GITHUB_REPOSITORY}/git/refs/tags/v1" -f sha="$GITHUB_SHA" -F force=true
