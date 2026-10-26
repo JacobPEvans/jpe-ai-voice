@@ -28,7 +28,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 - Positive and neutral. Describe partners, tools, and people through facts, never judgment or emotion.
 - Ask for things plainly, one owner per ask.
 - Anything sent upward may be quoted to the people it describes. State the gap, never a verdict on a person: `The project has no assigned coordinator.`
-- Quote only verbatim from a transcript. Never stitch fragments with ellipses, pass off a paraphrase as a quote, or repeat an off-the-record remark. Prefer a first-hand fact over a second-hand account.
+- Quote only exact words from the source record. Never stitch fragments with ellipses, pass off a paraphrase as a quote, or repeat an off-the-record remark. Prefer a first-hand fact over a second-hand account.
 - State facts with no method notes, asides, or justifications. Cite a source and date, never `per <name>`.
 
 ## Truth
