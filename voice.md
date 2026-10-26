@@ -5,8 +5,8 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 
 ## Audience first
 
-- Before writing, name the reader: peer engineers, engineers plus management, or a wide mix; internal, partner, or client-facing; and whether it may be forwarded or quoted.
-- The reader sets depth, jargon, which numbers stay, and tone. Engineers get specifics and IDs. Management gets outcomes, asks, and round numbers. Wide or client-facing text gets plain words, no internal detail, and forward-safe wording.
+- Before writing, name the reader: peer engineers, engineers plus management, or a wide mix; internal, partner, or client-facing.
+- The reader sets depth, jargon, which numbers stay, and tone. Engineers get specifics and IDs. Management gets outcomes, asks, and round numbers. Wide or client-facing text gets plain words and no internal detail.
 - When the audience is mixed or unclear, write for the least technical reader who might see it.
 
 ## When an approved version exists
@@ -33,7 +33,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 - Thank people by first name for what they did: `Thank you, Sam!`
 - Positive and neutral. Describe partners, tools, and people through facts, never judgment or emotion.
 - Ask for things plainly, one owner per ask.
-- Anything sent upward may be quoted to the people it describes. State the gap, never a verdict on a person: `The project has no assigned coordinator.`
+- State the gap, never a verdict on a person: `The project has no assigned coordinator.`
 - Quote only exact words from the source record. Never stitch fragments with ellipses, pass off a paraphrase as a quote, or repeat an off-the-record remark. Prefer a first-hand fact over a second-hand account.
 - State facts with no method notes, asides, or justifications. Cite a source and date, never `per <name>`.
 
