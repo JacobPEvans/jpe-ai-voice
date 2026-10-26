@@ -1,6 +1,6 @@
 # Writing voice
 
-A shared writing guide and Vale rules for AI agents and the people who read
+A shared writing guide and Vale rules for artificial intelligence (AI) agents and the people who read
 their prose.
 
 - `voice.md`: how the writer sounds. Agents read it before any prose a person will read.
@@ -49,5 +49,5 @@ the other rules flag.
 ## Voice learning
 
 [voice-learn](skills/voice-learn/SKILL.md) runs weekly as a Hermes job. It
-opens a PR with general rule updates for review. Nothing merges without
+opens a pull request (PR) with general rule updates for review. Nothing merges without
 approval.

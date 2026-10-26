@@ -24,6 +24,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 - Simple section names: `This Week`, `Next Week`, `Dependencies`, `In Progress`, `Next Steps`.
 - Say each thing once. No summary that repeats the bullets.
 - Numerals for every quantity: `12 of 16`, `~40 servers`.
+- Spell out every acronym on first use, with the acronym in parentheses: `virtual machine (VM)`. Use the acronym alone after that. An acronym used only once stays the full term, with no parentheses.
 - Comma before `and`, `but`, `or`, `so`, or `yet` when it joins two complete sentences: `The test passed, so I merged it.` It may drop only when both parts are short and clear.
 - Comma after an opening clause (`When`, `If`, `Because`, `After` plus a verb) or a long opening phrase: `After the cutover finished, I checked the logs.` After a short opener such as `Today` or `Next week`, the comma is optional.
 
