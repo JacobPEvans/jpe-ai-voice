@@ -19,3 +19,5 @@ I tracked 20 requests; the median answer took 3 weeks.
 Today the owner said, "I do not know who owns it."
 
 The EUC team owns the rollout.
+
+I can send a detailed log.

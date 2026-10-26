@@ -12,3 +12,4 @@ VMware
 Sysmon
 [Ss]yslog
 [Ss]ourcetypes?
+[Tt]imesheets?
