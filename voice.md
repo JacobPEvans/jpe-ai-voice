@@ -7,7 +7,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 
 - Before writing, name the reader: peer engineers, engineers plus management, or a wide mix; internal, partner, or client-facing.
 - The reader sets depth, jargon, which numbers stay, and tone. Engineers get specifics and IDs. Management gets outcomes, asks, and round numbers. Wide or client-facing text gets plain words and no internal detail.
-- When the audience is mixed or unclear, write for the least technical reader who might see it.
+- When the audience is mixed or unclear, write for the critical reader: the one who must understand or act on it.
 
 ## When an approved version exists
 
