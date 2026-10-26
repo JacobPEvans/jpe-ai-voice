@@ -20,21 +20,23 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 
 - Short. The fewest words that carry the fact. One page at most, usually much less.
 - Bullets, not tables or paragraphs. Nest a bullet for one supporting detail.
-- Bullet pattern: `Mini-title: what happened.` Parentheses carry a status, owner, or date: `(Complete)`, `(Sam)`, `(Confirmed 3/4)`.
+- Bullet pattern: `Mini-title: what happened.` Parentheses carry a status, owner, or date: `(Complete)`, `(<owner>)`, `(Confirmed 3/4)`.
 - Simple section names: `This Week`, `Next Week`, `Dependencies`, `In Progress`, `Next Steps`.
 - Say each thing once. No summary that repeats the bullets.
 - Numerals for every quantity: `12 of 16`, `~40 servers`.
+- Comma before `and`, `but`, `or`, `so`, or `yet` when it joins two complete sentences: `The test passed, so I merged it.` It may drop only when both parts are short and clear.
+- Comma after an opening clause (`When`, `If`, `Because`, `After` plus a verb) or a long opening phrase: `After the cutover finished, I checked the logs.` After a short opener such as `Today` or `Next week`, the comma is optional.
 
 ## Sound
 
 - First person and plain: `I`, `we`. Contractions are fine.
-- Open with a short, direct line: `Hi Alex,` or `Here is a quick update.` Close with `Thank you,` or `Thank you!`.
+- Open with a short, direct line: `Hi <name>,` or `Here is a quick update.` Close with `Thank you,` or `Thank you!`.
 - Past tense for done work, plain future for plans. No hedging stacks.
-- Thank people by first name for what they did: `Thank you, Sam!`
+- Thank people by first name for what they did: `Thank you, <name>!`
 - Positive and neutral. Describe partners, tools, and people through facts, never judgment or emotion.
 - Ask for things plainly, one owner per ask.
 - State the gap, never a verdict on a person: `The project has no assigned coordinator.`
-- No quotation marks for what people said. State what was said and why it matters, in few words: `Sam said they don't know who owns it, so finding the owner falls to me.` Never repeat an off-the-record remark. Prefer a first-hand fact over a second-hand account.
+- No quotation marks for what people said. State what was said and why it matters, in few words: `<name> said they don't know who owns it, so finding the owner falls to me.` Never repeat an off-the-record remark. Prefer a first-hand fact over a second-hand account.
 - State facts with no method notes, asides, or justifications. Cite a source and date, never `per <name>`.
 
 ## Truth
