@@ -27,12 +27,16 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 - Thank people by first name for what they did: `Thank you, Sam!`
 - Positive and neutral. Describe partners, tools, and people through facts, never judgment or emotion.
 - Ask for things plainly, one owner per ask.
+- Anything sent upward may be quoted to the people it describes. State the gap, never a verdict on a person: `The project has no assigned coordinator.`
+- Quote only exact words from the source record. Never stitch fragments with ellipses, pass off a paraphrase as a quote, or repeat an off-the-record remark. Prefer a first-hand fact over a second-hand account.
 - State facts with no method notes, asides, or justifications. Cite a source and date, never `per <name>`.
 
 ## Truth
 
 - Never claim work that was not done. Planning and prep are real work; say them as what they are.
 - Every number and date must match its source exactly.
+- Give the conclusion in round, plain words, not the ledger: no sample sizes, counts of what was checked, medians, or method. `A typical answer takes about 3 weeks.`
+- Include a number or date only when it changes what the reader does. Fewer numbers, all exact.
 - Leave out internal detail the reader does not need: tool counts, dataset names, file formats, internal IDs.
 - Lead with outcomes the reader cares about, not tooling metrics.
 
