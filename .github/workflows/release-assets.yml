@@ -1,8 +1,8 @@
 name: Release assets
 
 on:
-  release:
-    types: [published]
+  push:
+    branches: [main]
   pull_request:
     paths:
       - .github/workflows/release-assets.yml
@@ -26,10 +26,12 @@ jobs:
       - name: Build JacobPEvans.zip
         run: git archive --format=zip --prefix=JacobPEvans/ --output=JacobPEvans.zip HEAD styles/JacobPEvans styles/config/vocabularies/JacobPEvans
 
-      - name: Attach JacobPEvans.zip to the release
-        if: github.event_name == 'release'
-        uses: softprops/action-gh-release@3d0d9888cb7fd7b750713d6e236d1fcb99157228 # v3.0.2
-        with:
-          tag_name: ${{ github.event.release.tag_name }}
-          files: JacobPEvans.zip
-          fail_on_unmatched_files: true
+      # One rolling release named latest, no version numbers.
+      - name: Publish JacobPEvans.zip to the latest release
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view latest >/dev/null 2>&1 \
+            || gh release create latest --title latest --notes "Vale package built from main." --target "$GITHUB_SHA"
+          gh release upload latest JacobPEvans.zip --clobber
