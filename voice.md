@@ -35,7 +35,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 - Past tense for done work, plain future for plans. No hedging stacks.
 - Thank people by first name for what they did: `Thank you, <name>!`
 - Positive and neutral. Describe partners, tools, and people through facts, never judgment or emotion.
-- Ask for things plainly, one owner per ask.
+- Ask for things plainly, one owner per ask. Name the exact question to answer, not a generic request: `Who is my single point of contact for answers?`
 - State the gap, never a verdict on a person: `The project has no assigned coordinator.`
 - No quotation marks for what people said. State what was said and why it matters, in few words: `<name> said they don't know who owns it, so finding the owner falls to me.` Never repeat an off-the-record remark. Prefer a first-hand fact over a second-hand account.
 - State facts with no method notes, asides, or justifications. Cite a source and date, never `per <name>`.
@@ -45,6 +45,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 - Never claim work that was not done. Planning and prep are real work; say them as what they are.
 - Every number and date must match its source exactly.
 - Give the conclusion in round, plain words, not the ledger: no sample sizes, counts of what was checked, medians, or method. `A typical answer takes about 3 weeks.`
+- Never offer supporting records the reader did not ask for: logs, ledgers, timesheets, raw data, or an offer to send details.
 - Include a number or date only when it changes what this reader does. Fewer numbers, all exact.
 - Leave out internal detail the reader does not need: tool counts, dataset names, file formats, internal IDs.
 - Lead with outcomes the reader cares about, not tooling metrics.
