@@ -7,6 +7,7 @@ their prose.
 - `styles/JacobPEvans/`: custom Vale rules for traits unique to this voice. Em dashes, acronyms, readability, and sentence length come from maintained packages.
 - `styles/ai-tells/`: not in this repo. `vale sync` downloads the pinned
   [vale-ai-tells](https://github.com/tbhb/vale-ai-tells) package (v1.37.0).
+- `JacobPEvans.zip`: CI publishes the custom style as a Vale package to the `latest` release on every merge to `main`. There are no version tags.
 
 ## Install
 
