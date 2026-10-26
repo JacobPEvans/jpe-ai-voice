@@ -1,0 +1,6 @@
+extends: conditional
+message: "Spell out '%s' on first use as 'Full Term (ABC)'. If it appears once, write only the full term."
+level: error
+ignorecase: false
+first: '\b([A-Z]{2,6})\b'
+second: '(?:\b[A-Za-z][a-z-]+ )+\(([A-Z]{2,6})\)'
