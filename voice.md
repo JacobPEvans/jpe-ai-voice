@@ -3,6 +3,12 @@
 How Jacob writes. Follow this for any prose a person will read: status emails, docs, messages, PR text.
 Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this file holds the rest.
 
+## Audience first
+
+- Before writing, name the reader: peer engineers, engineers plus management, or a wide mix; internal, partner, or client-facing; and whether it may be forwarded or quoted.
+- The reader sets depth, jargon, which numbers stay, and tone. Engineers get specifics and IDs. Management gets outcomes, asks, and round numbers. Wide or client-facing text gets plain words, no internal detail, and forward-safe wording.
+- When the audience is mixed or unclear, write for the least technical reader who might see it.
+
 ## When an approved version exists
 
 - The last sent or approved version is the golden standard. Copy it, then change only what new facts force.
@@ -36,7 +42,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 - Never claim work that was not done. Planning and prep are real work; say them as what they are.
 - Every number and date must match its source exactly.
 - Give the conclusion in round, plain words, not the ledger: no sample sizes, counts of what was checked, medians, or method. `A typical answer takes about 3 weeks.`
-- Include a number or date only when it changes what the reader does. Fewer numbers, all exact.
+- Include a number or date only when it changes what this reader does. Fewer numbers, all exact.
 - Leave out internal detail the reader does not need: tool counts, dataset names, file formats, internal IDs.
 - Lead with outcomes the reader cares about, not tooling metrics.
 
