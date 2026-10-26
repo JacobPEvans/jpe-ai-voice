@@ -1,5 +1,0 @@
-extends: existence
-message: "Use a hyphen or colon to connect the ideas."
-level: warning
-tokens:
-  - "—"

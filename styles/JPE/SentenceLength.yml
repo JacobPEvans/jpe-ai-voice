@@ -1,6 +1,0 @@
-extends: occurrence
-message: "Split the sentence to make its point easy to scan."
-level: warning
-scope: sentence
-max: 20
-token: '\b\w+\b'

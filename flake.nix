@@ -25,9 +25,9 @@
 
             xdg.configFile."vale/jpe.vale.ini".text = valeIni;
 
-            xdg.dataFile."vale/styles/JPE".source = ./styles/JPE;
-            xdg.dataFile."vale/styles/config/vocabularies/JPE/accept.txt".source =
-              ./styles/config/vocabularies/JPE/accept.txt;
+            xdg.dataFile."vale/styles/JacobPEvans".source = ./styles/JacobPEvans;
+            xdg.dataFile."vale/styles/config/vocabularies/JacobPEvans/accept.txt".source =
+              ./styles/config/vocabularies/JacobPEvans/accept.txt;
 
             home.sessionVariables.VALE_CONFIG_PATH =
               "${config.xdg.configHome}/vale/jpe.vale.ini";
