@@ -1,7 +1,7 @@
 # Voice
 
 How Jacob writes. Follow this for any prose a person will read: status emails, docs, messages, PR text.
-Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this file holds the rest.
+Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`; this file holds the rest.
 
 ## Audience first
 

@@ -12,7 +12,7 @@ permissions: {}
 
 jobs:
   package:
-    name: Package JPE.zip
+    name: Package JacobPEvans.zip
     runs-on: ubuntu-24.04
     timeout-minutes: 5
     permissions:
@@ -23,13 +23,13 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Build JPE.zip
-        run: git archive --format=zip --prefix=JPE/ --output=JPE.zip HEAD styles/JPE styles/config/vocabularies/JPE
+      - name: Build JacobPEvans.zip
+        run: git archive --format=zip --prefix=JacobPEvans/ --output=JacobPEvans.zip HEAD styles/JacobPEvans styles/config/vocabularies/JacobPEvans
 
-      - name: Attach JPE.zip to the release
+      - name: Attach JacobPEvans.zip to the release
         if: github.event_name == 'release'
         uses: softprops/action-gh-release@3d0d9888cb7fd7b750713d6e236d1fcb99157228 # v3.0.2
         with:
           tag_name: ${{ github.event.release.tag_name }}
-          files: JPE.zip
+          files: JacobPEvans.zip
           fail_on_unmatched_files: true
