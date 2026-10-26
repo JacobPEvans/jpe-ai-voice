@@ -13,3 +13,5 @@ The plan is fast, clear, and useful. The launch—finally—is ready.
 I think we should probably consider possibly reviewing the result. Looking forward to your response. I hope this helps. Please don't hesitate to ask.
 
 CRITICAL and IMPORTANT details are NEVER EXPLICIT.
+
+I tracked 20 requests; the median answer took 3 weeks.

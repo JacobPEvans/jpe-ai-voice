@@ -1,0 +1,11 @@
+extends: existence
+message: "Give the conclusion, not the method: drop '%s'."
+level: warning
+ignorecase: true
+tokens:
+  - I tracked
+  - median
+  - p50
+  - p90
+  - percentile
+  - sample size
