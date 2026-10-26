@@ -1,0 +1,7 @@
+extends: existence
+message: "State what was said and why it matters, without quotation marks."
+level: warning
+ignorecase: true
+nonword: true
+tokens:
+  - '\b(?:said|says|told \w+|asked|wrote)[,:]?\s+["“]'

@@ -15,3 +15,5 @@ I think we should probably consider possibly reviewing the result. Looking forwa
 CRITICAL and IMPORTANT details are NEVER EXPLICIT.
 
 I tracked 20 requests; the median answer took 3 weeks.
+
+Today Sam said, "I do not know who owns it."
