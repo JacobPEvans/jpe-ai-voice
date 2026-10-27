@@ -1,5 +1,7 @@
 # Bad
 
+The approximate quantity is 40,000. The change takes between 3-5 days.
+
 The easy win makes a modern, brittle magic button for the operations team feel snazzy, poetic, deterministic, quantified, and full of fluff; the TBD plan is robust, comprehensive, seamless, and crucial.
 
 We will delve into the issue; in summary, I'd be happy to navigate the complexities. It's worth noting that this is important to note.

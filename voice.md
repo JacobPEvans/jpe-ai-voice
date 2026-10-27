@@ -24,6 +24,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`
 - Simple section names: `This Week`, `Next Week`, `Dependencies`, `In Progress`, `Next Steps`.
 - Say each thing once. No summary that repeats the bullets.
 - Numerals for every quantity: `12 of 16`, `~40 servers`.
+- For large approximate quantities, use lowercase `k` for thousands and uppercase `M` and `B` for millions and billions, with at most one decimal and no space: `40k`, not `40,000`.
 - Spell out every acronym on first use, with the acronym in parentheses: `virtual machine (VM)`. Use the acronym alone after that. An acronym used only once stays the full term, with no parentheses.
 - Comma before `and`, `but`, `or`, `so`, or `yet` when it joins two complete sentences: `The test passed, so I merged it.` It may drop only when both parts are short and clear.
 - Comma after an opening clause (`When`, `If`, `Because`, `After` plus a verb) or a long opening phrase: `After the cutover finished, I checked the logs.` After a short opener such as `Today` or `Next week`, the comma is optional.
@@ -43,10 +44,10 @@ Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`
 ## Truth
 
 - Never claim work that was not done. Planning and prep are real work; say them as what they are.
-- Every number and date must match its source exactly.
-- Give the conclusion in round, plain words, not the ledger: no sample sizes, counts of what was checked, medians, or method. `A typical answer takes about 3 weeks.`
+- Every number traces to its source; a rounded number is a correct rounding of it. Dates, IDs, money totals, hours, and validated counts stay exact. Round estimates and conclusions, and do not add `about` to a number that is already round.
+- Give the conclusion in round, plain words, not the ledger: no sample sizes, counts of what was checked, medians, or method. `A typical answer takes 3 weeks.`
 - Never offer supporting records the reader did not ask for: logs, ledgers, timesheets, raw data, or an offer to send details.
-- Include a number or date only when it changes what this reader does. Fewer numbers, all exact.
+- Include a number or date only when it changes what this reader does.
 - Leave out internal detail the reader does not need: tool counts, dataset names, file formats, internal IDs.
 - Lead with outcomes the reader cares about, not tooling metrics.
 
