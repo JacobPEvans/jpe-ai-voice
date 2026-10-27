@@ -44,7 +44,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`
 ## Truth
 
 - Never claim work that was not done. Planning and prep are real work; say them as what they are.
-- Dates, IDs, money totals, hours, and validated counts match their source exactly. Round estimates and conclusions, and do not add about to a round number.
+- Every number traces to its source; a rounded number is a correct rounding of it. Dates, IDs, money totals, hours, and validated counts stay exact. Round estimates and conclusions, and do not add `about` to a number that is already round.
 - Give the conclusion in round, plain words, not the ledger: no sample sizes, counts of what was checked, medians, or method. `A typical answer takes 3 weeks.`
 - Never offer supporting records the reader did not ask for: logs, ledgers, timesheets, raw data, or an offer to send details.
 - Include a number or date only when it changes what this reader does.

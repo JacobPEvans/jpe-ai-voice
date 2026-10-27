@@ -1,5 +1,5 @@
 extends: existence
-message: "Use compact notation for large estimates."
+message: "Use compact notation for a large estimate, such as 40k. An exact count may keep its digits."
 level: warning
 ignorecase: true
 tokens:
