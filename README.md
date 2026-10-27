@@ -38,6 +38,8 @@ Vale only sees `VALE_CONFIG_PATH` in shells that Home Manager sources.
 
 ## Vale
 
+- `CompactNumbers` checks large approximate values; selected Google and `proselint` rules cover ranges, ordinals, dates, percentages, and currency.
+
 In a checkout, run `vale sync` once. Then lint Markdown with `vale <file>`.
 
 - `vale tests/good.md` reports no alerts.
