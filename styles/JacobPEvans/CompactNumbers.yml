@@ -1,0 +1,6 @@
+extends: existence
+message: "Use compact notation for large estimates."
+level: warning
+ignorecase: true
+tokens:
+  - '(?<!\bID )(?<!\bID: )\b\d{1,3}(?:,\d{3})+\b'
