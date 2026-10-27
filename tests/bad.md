@@ -1,6 +1,6 @@
 # Bad
 
-The approximate quantity is 40,000.
+The approximate quantity is 40,000. The change takes between 3-5 days.
 
 The easy win makes a modern, brittle magic button for the operations team feel snazzy, poetic, deterministic, quantified, and full of fluff; the TBD plan is robust, comprehensive, seamless, and crucial.
 
