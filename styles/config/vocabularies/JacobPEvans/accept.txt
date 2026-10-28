@@ -13,3 +13,7 @@ Sysmon
 [Ss]yslog
 [Ss]ourcetypes?
 [Tt]imesheets?
+onboarding
+lookback
+pushback
+hoc
