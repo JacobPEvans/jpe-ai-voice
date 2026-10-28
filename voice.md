@@ -15,6 +15,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`
 - Keep the greeting, intro, closing, order, and wording identical when nothing changed.
 - A finished item keeps its exact wording with `(Complete)` added. Never reword it.
 - New items are the only freshly written text. When in doubt, change less.
+- Style rules (acronyms, dashes, commas) apply to new text only. Never edit a kept line to satisfy them.
 
 ## Shape
 

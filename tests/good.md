@@ -10,3 +10,5 @@ The inline example keeps `40,000` as code.
 ```text
 40,000
 ```
+
+The onboarding plan adds a lookback window and an ad hoc pushback.
