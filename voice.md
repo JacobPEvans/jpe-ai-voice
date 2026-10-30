@@ -28,6 +28,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 - First person and plain: `I`, `we`. Contractions are fine.
 - Open with a short, direct line: `Hi <name>,` or `Here is a quick update.` Close with `Thank you,` or `Thank you!`.
 - An email that asks for something never starts with a command. After the greeting, thank the reader and give one line of context, then lead into the asks with `Could you please help with these:`.
+- Reference a diagram wherever one helps. Attach 1 to 3 small, specific diagrams to a targeted email, point to each from the ask it supports (`see <Name>`), and end with `Attached: <Name>, <Name>.`
 - Past tense for done work, plain future for plans. No hedging stacks.
 - Thank people by first name for what they did: `Thank you, <name>!`
 - Positive and neutral. Describe partners, tools, and people through facts, never judgment or emotion.
