@@ -19,11 +19,15 @@ Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`
 
 ## Shape
 
-- Short. The fewest words that carry the fact. One page at most, usually much less.
+- Short. The fewest words needed to state the fact. One page at most, usually much less.
 - Bullets, not tables or paragraphs. Nest a bullet for one supporting detail.
-- Bullet pattern: `Mini-title: what happened.` Parentheses carry a status, owner, or date: `(Complete)`, `(<owner>)`, `(Confirmed 3/4)`.
+- Bullet pattern: `Mini-title: what happened.` Parentheses show a status, owner, or date: `(Complete)`, `(<owner>)`, `(Confirmed 3/4)`.
 - Simple section names: `This Week`, `Next Week`, `Dependencies`, `In Progress`, `Next Steps`.
-- Say each thing once. No summary that repeats the bullets.
+- Executive summary: 2 or 3 highest-level points; say each once in the email, without repeating a point below.
+- Write the author's actions, not events; start each `This Week` bullet with the author's action verb.
+- Completed items need no dates; `This Week` dates them. List them in chronological order.
+- Name artifacts by what they do: `Wrote a 3 to 5 day plan that checks X, Y, and Z.`
+- Give the parts or the total, never both when the parts make the total obvious.
 - Numerals for every quantity: `12 of 16`, `~40 servers`.
 - For large approximate quantities, use lowercase `k` for thousands and uppercase `M` and `B` for millions and billions, with at most one decimal and no space: `40k`, not `40,000`.
 - Spell out every acronym on first use, with the acronym in parentheses: `virtual machine (VM)`. Use the acronym alone after that. An acronym used only once stays the full term, with no parentheses.
