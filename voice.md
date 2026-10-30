@@ -41,13 +41,16 @@ Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`
 - Open with a short, direct line: `Hi <name>,` or `Here is a quick update.` Close with `Thank you,` or `Thank you!`.
 - An email that asks for something never starts with a command. After the greeting, thank the reader and give one line of context, then lead into the asks with `Could you please help with these:`.
 - Reference a diagram wherever one helps. Attach 1 to 3 small, specific diagrams to a targeted email, point to each from the ask it supports (`see <Name>`), and end with `Attached: <Name>, <Name>.`
-- Every blocker or ask names its stakes: the largest thing it blocks (`Blocks: <milestone>.`) or the risk if it stays open (`Risk: <consequence>.`).
+- Name an ask's stakes only when they are obvious: the largest thing it blocks (`Blocks: <milestone>.`) or a clear risk (`Risk: <consequence>.`). Never pad a weak one.
 - Past tense for done work, plain future for plans. No hedging stacks.
 - Thank people by first name for what they did: `Thank you, <name>!`
 - Positive and neutral. Describe partners, tools, and people through facts, never judgment or emotion.
-- Ask for things plainly, one owner per ask. Name the exact question to answer, not a generic request: `Who is my single point of contact for answers?`
+- Ask for things plainly, one owner per ask, and never two names on one ask. Name the exact question to answer, not a generic request: `Who is my single point of contact for answers?`
 - State the gap, never a verdict on a person: `The project has no assigned coordinator.`
 - No quotation marks for what people said. State what was said and why it matters, in few words: `<name> said they don't know who owns it, so finding the owner falls to me.` Never repeat an off-the-record remark. Prefer a first-hand fact over a second-hand account.
+- An approve, confirm, or decide ask states the actual decision and one short clause of background, so a reader who missed the thread can answer.
+- Point to the source thread by its subject when an ask depends on it.
+- Label an ask list's date column `Date`, never `Asked` or `Since`: neutral, never accusatory.
 - State facts with no method notes, asides, or justifications. Cite a source and date, never `per <name>`.
 
 ## Truth
