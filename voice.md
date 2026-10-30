@@ -12,19 +12,23 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 
 ## Shape
 
-- Short. The fewest words that carry the fact. One page at most, usually much less.
+- Short. The fewest words needed to state the fact. One page at most, usually much less.
 - Bullets, not tables or paragraphs. Nest a bullet for one supporting detail.
-- Bullet pattern: `Mini-title: what happened.` Parentheses carry a status, owner, or date: `(Complete)`, `(Sam)`, `(Confirmed 3/4)`.
+- Bullet pattern: `Mini-title: what happened.` Parentheses show a status, owner, or date: `(Complete)`, `(<owner>)`, `(Confirmed 3/4)`.
 - Simple section names: `This Week`, `Next Week`, `Dependencies`, `In Progress`, `Next Steps`.
-- Say each thing once. No summary that repeats the bullets.
+- Executive summary: 2 or 3 highest-level points; say each once in the email, without repeating a point below.
+- Write the author's actions, not events; start each `This Week` bullet with the author's action verb.
+- Completed items need no dates; `This Week` dates them. List them in chronological order.
+- Name artifacts by what they do: `Wrote a 3 to 5 day plan that checks X, Y, and Z.`
+- Give the parts or the total, never both when the parts make the total obvious.
 - Numerals for every quantity: `12 of 16`, `~40 servers`.
 
 ## Sound
 
 - First person and plain: `I`, `we`. Contractions are fine.
-- Open with a short, direct line: `Hi Alex,` or `Here is a quick update.` Close with `Thank you,` or `Thank you!`.
+- Open with a short, direct line: `Hi <name>,` or `Here is a quick update.` Close with `Thank you,` or `Thank you!`.
 - Past tense for done work, plain future for plans. No hedging stacks.
-- Thank people by first name for what they did: `Thank you, Sam!`
+- Thank people by first name for what they did: `Thank you, <name>!`
 - Positive and neutral. Describe partners, tools, and people through facts, never judgment or emotion.
 - Ask for things plainly, one owner per ask.
 - State facts with no method notes, asides, or justifications. Cite a source and date, never `per <name>`.
