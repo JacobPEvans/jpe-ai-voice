@@ -13,6 +13,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JPE/`; this f
 ## Shape
 
 - Short. The fewest words needed to state the fact. One page at most, usually much less.
+- Agreements and expectation emails cover only the basics, in about half a page. Readers are peers: no explaining the obvious, no showing off.
 - Bullets, not tables or paragraphs. Nest a bullet for one supporting detail.
 - Bullet pattern: `Mini-title: what happened.` Parentheses show a status, owner, or date: `(Complete)`, `(<owner>)`, `(Confirmed 3/4)`.
 - Simple section names: `This Week`, `Next Week`, `Dependencies`, `In Progress`, `Next Steps`.
