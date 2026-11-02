@@ -58,6 +58,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`
 ## Truth
 
 - Never claim work that was not done. Planning and prep are real work; say them as what they are.
+- An agreement or expectations email states only what both sides agreed. Never turn an offer, a guess, or an inferred role into a commitment.
 - Every number traces to its source; a rounded number is a correct rounding of it. Dates, IDs, money totals, hours, and validated counts stay exact. Round estimates and conclusions, and do not add `about` to a number that is already round.
 - Give the conclusion in round, plain words, not the ledger: no sample sizes, counts of what was checked, medians, or method. `A typical answer takes 3 weeks.`
 - Never offer supporting records the reader did not ask for: logs, ledgers, timesheets, raw data, or an offer to send details.
