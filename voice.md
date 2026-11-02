@@ -29,6 +29,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`
 - Spell out every acronym on first use, with the acronym in parentheses: `virtual machine (VM)`. Use the acronym alone after that. An acronym used only once stays the full term, with no parentheses.
 - Comma before `and`, `but`, `or`, `so`, or `yet` when it joins two complete sentences: `The test passed, so I merged it.` It may drop only when both parts are short and clear.
 - Comma after an opening clause (`When`, `If`, `Because`, `After` plus a verb) or a long opening phrase: `After the cutover finished, I checked the logs.` After a short opener such as `Today` or `Next week`, the comma is optional.
+- Serial (Oxford) comma before the last item of a list of three or more: `the agent, the fleet, and the pipeline`.
 
 ## Sound
 
