@@ -51,7 +51,11 @@ Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`
 - State the gap, never a verdict on a person: `The project has no assigned coordinator.`
 - No quotation marks for what people said. State what was said and why it matters, in few words: `<name> said they don't know who owns it, so finding the owner falls to me.` Never repeat an off-the-record remark. Prefer a first-hand fact over a second-hand account.
 - An approve, confirm, or decide ask states the actual decision and one short clause of background, so a reader who missed the thread can answer.
-- Phrase each ask as a yes/no question when it can be one. State what is proposed and why, then ask: `Is this approved by <team> and okay with you? Would you like any other split?` Never a bare `Approve <thing>`.
+- Ask a decision as one yes/no question that states the proposal and, neutrally, the cost of declining: `Should <thing> go through <path> or do you accept <consequence>?` Never a bare `Approve <thing>`.
+- Give tasks as plain imperatives under one lead-in (`Could you please help with these:`). Never start lines with `Can you`.
+- Drop stakes clauses (`Blocks:`, `Risk:`) from action-item lists unless the reader asks for them.
+- A combined row keeps the latest real ask date of its parts. Never show a date that is not when it was asked.
+- Name a person the reader cannot place by full name or by team. Never use a bare first name the reader would not know.
 - Point to the source thread by its subject when an ask depends on it.
 - Label an ask list's date column `Date`, never `Asked` or `Since`: neutral, never accusatory.
 - State facts with no method notes, asides, or justifications. Cite a source and date, never `per <name>`.
