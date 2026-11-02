@@ -23,3 +23,5 @@ Today the owner said, "I do not know who owns it."
 The EUC team owns the rollout.
 
 I can send a detailed log.
+
+We checked the agent, the fleet and the pipeline.

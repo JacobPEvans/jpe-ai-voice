@@ -19,7 +19,7 @@
             lib.mkEnableOption "the shared writing voice and Vale rules";
 
           config = lib.mkIf cfg.enable {
-            home.packages = [ pkgs.vale ];
+            home.packages = [ pkgs.vale pkgs.harper ];
 
             home.file.".agents/voice.md".source = ./voice.md;
 
