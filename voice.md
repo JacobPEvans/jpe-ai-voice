@@ -47,6 +47,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`
 - Past tense for done work, plain future for plans. No hedging stacks.
 - Thank people by first name for what they did: `Thank you, <name>!`
 - Positive and neutral. Describe partners, tools, and people through facts, never judgment or emotion.
+- Never restate in prose a boundary a table already shows, such as a RACI. A line that limits your own scope reads as a jab.
 - Ask for things plainly, one owner per ask, and never two names on one ask. Name the exact question to answer, not a generic request: `Who is my single point of contact for answers?`
 - State the gap, never a verdict on a person: `The project has no assigned coordinator.`
 - No quotation marks for what people said. State what was said and why it matters, in few words: `<name> said they don't know who owns it, so finding the owner falls to me.` Never repeat an off-the-record remark. Prefer a first-hand fact over a second-hand account.
