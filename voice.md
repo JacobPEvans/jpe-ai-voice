@@ -55,7 +55,7 @@ Enforced word and punctuation rules live in the Vale style `styles/JacobPEvans/`
 - Ask a decision as one yes/no question that states the proposal and, neutrally, the cost of declining: `Should <thing> go through <path> or do you accept <consequence>?` Never a bare `Approve <thing>`.
 - Give tasks as plain imperatives under one lead-in (`Could you please help with these:`). Never start lines with `Can you`.
 - Drop stakes clauses (`Blocks:`, `Risk:`) from action-item lists unless the reader asks for them.
-- A combined row keeps the latest real ask date of its parts. Never show a date that is not when it was asked.
+- Action-item emails show no ask dates. Keep each item's ask date in an internal comment. A combined item keeps the latest real ask date of its parts.
 - Name a person the reader cannot place by full name or by team. Never use a bare first name the reader would not know.
 - Point to the source thread by its subject when an ask depends on it.
 - Label an ask list's date column `Date`, never `Asked` or `Since`: neutral, never accusatory.
