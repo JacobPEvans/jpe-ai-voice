@@ -25,3 +25,5 @@ The EUC team owns the rollout.
 I can send a detailed log.
 
 We checked the agent, the fleet and the pipeline.
+
+Jacob authored the plan while authoring the spec.
